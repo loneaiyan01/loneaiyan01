@@ -1,6 +1,13 @@
 <div align="center">
   <!-- High-End Profile Banner -->
-  <img src="./profile_banner.png" alt="Aiyan Ali Lone Banner" width="100%" />
+  <pre style="font-family: monospace; font-size: 14px; text-align: left; display: inline-block;">
+    _    _                   _    _ _   _                       
+   / \  (_)_   _  __ _ _ __ / \  | (_) | |    ___  _ __   ___   
+  / _ \ | | | | |/ _` | '_ \ _ \ | | | | |   / _ \| '_ \ / _ \  
+ / ___ \| | |_| | (_| | | | / ___ \| | | | |__| (_) | | | |  __/  
+/_/   \_\_|\__, |\__,_|_| |/_/   \_\_|_| |_____\___/|_| |_|\___|  
+           |___/                                                  
+  </pre>
   
   <br/><br/>
 
@@ -11,7 +18,7 @@
 
   <!-- Sleek Social Links -->
   <p>
-    <a href="https://x.com/loneaiyan01" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
+    <a href="https://x.com/SalafiHunaybil" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
     <a href="mailto:loneaiyan01@gmail.com"><img src="https://img.shields.io/badge/Email-loneaiyan01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
   </p>
 </div>
