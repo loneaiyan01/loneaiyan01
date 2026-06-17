@@ -40,11 +40,11 @@
 
 <div align="center">
   <!-- Row 1 -->
-  <a href="https://github.com/loneaiyan01/Separa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=Separa&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
+  <a href="https://github.com/loneaiyan01/NeuralDB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=NeuralDB&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
   </a>
-  <a href="https://github.com/loneaiyan01/IslamicDashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=IslamicDashboard&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
+  <a href="https://github.com/loneaiyan01/OmniShare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=OmniShare&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
   </a>
   
   <br/><br/>
@@ -52,16 +52,6 @@
   <!-- Row 2 -->
   <a href="https://github.com/loneaiyan01/QuranPro1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=QuranPro1&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
-  </a>
-  <a href="https://github.com/loneaiyan01/NeuralDB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=NeuralDB&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Row 3 -->
-  <a href="https://github.com/loneaiyan01/Taleeb-Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=Taleeb-Quiz&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
   </a>
   <a href="https://github.com/loneaiyan01/SubVideo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=loneaiyan01&repo=SubVideo&theme=tokyonight&bg_color=1a1b26&hide_border=false" width="48%" />
