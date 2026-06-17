@@ -13,8 +13,8 @@
 
   <!-- Header Section -->
   <h1>⚡ AIYAN ALI LONE ⚡</h1>
-  <p><strong>Full-Stack Software Engineer & EdTech Innovator</strong></p>
-  <p><em>Building high-performance applications with modern web protocols, real-time communication, and interactive learning tools.</em></p>
+  <p><strong>Elite Practical Pair Programmer & Full-Stack Developer</strong></p>
+  <p><em>Building clean, highly functional applications that solve real problems. Strict TypeScript, modern Edge infrastructure, and zero bloat.</em></p>
 
   <!-- Sleek Social Links -->
   <p>
