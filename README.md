@@ -1,18 +1,18 @@
 <div align="center">
   <!-- High-End Profile Banner -->
   <pre style="font-family: monospace; font-size: 14px; text-align: left; display: inline-block;">
-    _    _                   _    _ _   _                       
-   / \  (_)_   _  __ _ _ __ / \  | (_) | |    ___  _ __   ___   
-  / _ \ | | | | |/ _` | '_ \ _ \ | | | | |   / _ \| '_ \ / _ \  
- / ___ \| | |_| | (_| | | | / ___ \| | | | |__| (_) | | | |  __/  
-/_/   \_\_|\__, |\__,_|_| |/_/   \_\_|_| |_____\___/|_| |_|\___|  
+    _    _                   _    _ _   
+   / \  (_)_   _  __ _ _ __ / \  | (_)
+  / _ \ | | | | |/ _` | '_ \ _ \ | | | 
+ / ___ \| | |_| | (_| | | | / ___ \| | 
+/_/   \_\_|\__, |\__,_|_| |/_/   \_\_|
            |___/                                                  
   </pre>
   
   <br/><br/>
 
   <!-- Header Section -->
-  <h1>⚡ AIYAN ALI LONE ⚡</h1>
+  <h1> AIYAN ALI </h1>
   <p><strong>Elite Practical Pair Programmer & Full-Stack Developer</strong></p>
   <p><em>Building clean, highly functional applications that solve real problems. Strict TypeScript, modern Edge infrastructure, and zero bloat.</em></p>
 
